@@ -4,15 +4,6 @@ Created on Sat Apr  6 12:27:08 2024
 
 @author: luisc
 """
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  5 19:24:59 2023
-
-@author: cristian
-"""
-
 import cv2
 import mediapipe as mp
 import numpy as np
