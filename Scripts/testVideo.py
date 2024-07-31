@@ -5,13 +5,6 @@ Created on Mon Mar 18 13:06:54 2024
 @author: luisc
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 16 13:16:40 2024
-
-@author: luisc
-"""
-
 from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
 from mediapipe import solutions
